@@ -1,0 +1,7 @@
+Origin: SmorganlandGov
+Label: SmorganlandGov's Repo
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: Place where you can find SmorganlandGov's somewhat interesting stuff.
